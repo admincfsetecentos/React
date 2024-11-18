@@ -1,6 +1,3 @@
-Iniciando com Create React App
-Este projeto foi inicializado utilizando o Create React App.
-
 Scripts Disponíveis
 No diretório do projeto, posso rodar os seguintes comandos:
 
